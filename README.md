@@ -1,16 +1,19 @@
-### Hi there 👋
+###  👋 Hi! Welcome to my github
+<h3> 🚀 I'm a mobile Developer </h3>
 
-<!--
-**VladimirVinokurov/VladimirVinokurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  💻&nbsp;&nbsp;<a  href="https://holy-target-614.notion.site/Vladimir-Vinokurov-b9b20d6035be46248316466c595c80c5?pvs=4">My Resume</a>
+</p>
 
-Here are some ideas to get you started:
+```swift
+class WarpPhoenix03: Developer {
+  let fullName = "Vladimir Vinokurov"
+  let country = "Russia"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  let contacts = [
+    // email
+    "v.vinokurovmessage@gmail.com"
+  ]  
+}
+
+```
